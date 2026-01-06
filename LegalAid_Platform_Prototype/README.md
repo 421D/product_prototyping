@@ -1,125 +1,177 @@
-# Consumer Rights Protection Platform – Final Prototype
+# Consumer Rights Protection Platform  (UCD & Accessibility-Focused)
 
-This repository presents the **final interactive prototype** of our *Consumer Rights Protection Platform*, designed based on **User-Centred Design (UCD)** principles to ensure accessibility, usability, and inclusivity.
+## Executive Summary
 
+An end-to-end **consumer rights assistance platform prototype** designed using **User-Centred Design (UCD)** principles, with a strong emphasis on **accessibility**, **legal transparency**, and **guided case resolution**.
 
-## Overview
+This project demonstrates my ability to translate complex legal and procedural workflows into **clear, inclusive user journeys**, supporting users from issue awareness to formal case submission.
 
-The platform aims to assist users in identifying, understanding, and resolving consumer rights issues through a combination of **community engagement**, **AI assistance**, and **legal support services**.
+---
 
-Developed and prototyped using **Figma** and **Pixso**, this prototype focuses on:
-- Clear navigation and modular information structure  
-- Seamless user journey from awareness to resolution  
-- Accessibility support for visually impaired users  
+## Project Overview
 
+The **Consumer Rights Protection Platform** is designed to help users identify, understand, and resolve consumer rights issues through a combination of:
 
+- Community-driven knowledge sharing  
+- AI-assisted legal guidance  
+- Structured case handling and legal support access  
 
-## User Flow Summary
+The prototype focuses on reducing user uncertainty, lowering cognitive load, and ensuring equal access for users with diverse needs.
 
-### 1. Login Page
-- Users enter their **username and password** to access the platform.  
-- **OTP verification** is available for password recovery.  
-- Once logged in, users are directed to the homepage with a clean **navigation bar** and key feature modules:
+**Design Goals**
+- Clear navigation and modular information architecture  
+- Seamless transition from awareness to action  
+- Accessibility as a core system requirement, not an add-on  
+
+---
+
+## User Journey & System Flow
+
+### 1. Authentication & Entry
+- Secure login using username and password  
+- OTP-based password recovery  
+- Post-login landing on a simplified homepage with key modules:
   - Online Services  
   - Legal Wins  
   - Latest News  
 
+---
 
+### 2. Homepage & Community Forum (Awareness Stage)
 
-### 2. Homepage & Community Forum
-- The homepage introduces two main navigation menus — *Information Center* and *Case Assistance*.  
-- Users can visit the **Community Forum** to browse or discuss consumer rights issues.  
-- Key interactions:
-  - Browse posts and detailed discussions  
-  - Explore related topics from the sidebar  
-  - Leave comments or share personal experiences  
+**Purpose:** Help users determine whether their consumer rights may have been violated.
 
-> This phase supports users in realising whether their rights have been violated by engaging with community discussions.
+**Key Features**
+- Dual navigation structure: *Information Center* and *Case Assistance*  
+- Community Forum with:
+  - Discussion posts and detailed threads  
+  - Topic-based sidebar navigation  
+  - Commenting and experience sharing  
 
+> Community engagement is intentionally positioned before case submission to reduce unnecessary escalation and empower informed decision-making.
 
-### 3. FAQ & AI Assistant
-- For quick inquiries, users can open the **FAQ Page**.  
-- Common consumer issues (e.g., complaint process, refund eligibility) are listed.  
-- An integrated **AI Assistant** helps users find answers instantly.
+---
 
+### 3. FAQ & AI Assistant (Quick Resolution)
 
+- Centralised FAQ covering common consumer issues (refunds, complaints, eligibility)  
+- Integrated **AI Assistant** concept for instant, contextual answers  
+- Designed to minimise friction for users seeking immediate guidance  
 
-### 4. Accessibility Page
-To ensure **equal access** for all users, the platform provides an accessibility-focused interface that:
-- Supports major **screen readers**  
-- Offers **high-contrast mode** for visually impaired users  
-- Provides **language switching** options  
-- Includes a **feedback form** designed to work even in high-contrast mode  
+---
 
-> Accessibility is treated as a core feature, not an afterthought.
+### 4. Accessibility-First Interface
 
+Accessibility is treated as a **first-class design constraint**, not a visual enhancement.
 
+**Implemented Concepts**
+- Compatibility with major screen readers  
+- High-contrast mode for visually impaired users  
+- Multi-language switching  
+- Accessible feedback form is functional under high-contrast settings  
 
-### 5. Case Handling Options
+> The interface remains fully usable under assistive-technology scenarios, ensuring inclusive access to legal information.
+
+---
+
+### 5. Case Handling & Legal Support
 
 #### (1) Case Submission
-- Users can access the **Case Submission** page to submit complaints.
-- Multiple **form templates** are provided for different scenarios.
-- “Expand All” allows users to preview all templates quickly.
-- Two submission options:
-  - **Email Submission:** requires personal details  
+- Dedicated Case Submission module  
+- Multiple scenario-based form templates  
+- “Expand All” preview for rapid comparison  
+- Two submission pathways:
+  - **Email Submission:** requires user contact details  
   - **Direct Platform Submission:** securely handled within the system  
 
-#### (2) Contact Support
-- For urgent cases, users can locate **legal agencies** across different regions.  
-- Each entry includes contact details and location info.  
-- Every page includes a **Back button** for easy navigation.
+#### (2) Contact Legal Support
+- Directory of legal agencies organised by region  
+- Clear contact and location information  
+- Consistent navigation with backtracking support  
 
+---
 
+### 6. News & Legal Wins
 
-### 6. News & Blogs
-- Users can browse **News Updates** and **Legal Wins** under two separate tabs.  
-- Each article has a detailed view and a navigation option to return to the main interface.
+- Separate tabs for **Legal News** and **Case Success Stories**  
+- Detailed article views with clear return navigation  
+- Designed to reinforce trust and platform credibility  
 
+---
 
+### 7. User Account Dashboard
 
-### 7. User Account Page
-After logging in, users can manage all personal interactions within the system.
+A centralised space for managing all user interactions.
 
-**Modules include:**
-- **Viewed Posts Tracker:** history of browsed community discussions  
-- **Case Tracker:** progress bar displaying current complaint status  
-- **Saved Legal Topics:** manage bookmarked legal articles and posts  
-- **Notification Settings:** configure reminders (email, SMS, or case updates)  
-- **Account Settings:** update personal information and preferences  
+**Modules Include**
+- Viewed Posts Tracker  
+- Case Progress Tracker with status indicators  
+- Saved Legal Topics and articles  
+- Notification Preferences (email, SMS, case updates)  
+- Account and personal information management  
 
-
+---
 
 ## Design Philosophy
 
-This prototype was built with three guiding principles:
-1. **User-Centred Design (UCD):** Focused on real user tasks and behaviour.
-2. **Accessibility:** Designed for inclusivity across all user groups.
-3. **Transparency:** Provides clear and structured legal guidance.
+This prototype is guided by three core principles:
 
+1. **User-Centred Design (UCD)**  
+   Interfaces and flows are structured around real user goals and behaviours.
 
+2. **Accessibility & Inclusivity**  
+   Equal access is prioritised across visual, cognitive, and language barriers.
 
-## Tools & Technologies
-- **Design & Prototyping:** Figma and pixso  
-- **Principles:** UCD, Accessibility, Responsive Layouts  
-- **Features:** Multi-language support, AI assistant integration concept, community interactivity
+3. **Transparency & Trust**  
+   Legal processes are broken down into understandable, actionable steps.
 
+---
 
+## Tools & Methods
 
-## Prototype Access
-- **Prototype Link:** [View the Interactive Prototype](https://pixso.cn/app/design/qdjXgK437SfpVolAH6HMJA?page-id=0%3A1)
-- **Preview SystemFlow:**  ![Preview of SystemFlow](./SystemFlow.png)
-  
-- **Preview:**
-  - ![Preview of HomePage](./screenshots/HomePage.png)
-  - ![Preview of Community%20Forum](./screenshots/Community%20Forum.png)
-  - ![Preview of Accessibility](./screenshots/Accessibility.png)
+- **Design & Prototyping:** Figma, Pixso  
+- **Methodology:** User-Centred Design (UCD)  
+- **Design Focus:** Accessibility, responsive layouts, modular information architecture  
+- **Feature Concepts:** AI-assisted guidance, community interaction, multi-language support  
 
+---
+
+## My Contribution
+
+- Designed complete end-to-end user flows, from authentication to case resolution  
+- Led accessibility-focused UI decisions, including high-contrast mode and assistive-technology support  
+- Structured complex legal information into modular, task-oriented layouts  
+- Built high-fidelity interactive prototypes using Figma and Pixso  
+
+---
+
+## Skills Demonstrated
+
+- User-Centred Design (UCD)  
+- Accessibility-First Interface Design  
+- Information Architecture & User Flow Design  
+- Legal-Tech Product Thinking  
+- High-Fidelity Prototyping  
+
+---
+
+## Prototype & Previews
+
+- **Interactive Prototype:**  
+  [View the Interactive Prototype](https://pixso.cn/app/design/qdjXgK437SfpVolAH6HMJA?page-id=0%3A1)
+
+- **System Flow Overview:**  
+  ![System Flow](./SystemFlow.png)
+
+- **UI Previews:**  
+  - ![Home Page](./screenshots/HomePage.png)  
+  - ![Community Forum](./screenshots/Community%20Forum.png)  
+  - ![Accessibility Interface](./screenshots/Accessibility.png)
+
+---
 
 ## Summary
 
-Through this user-centred, accessible, and functional design,  
-our goal is to empower every user to **understand and protect their consumer rights**.
+This project demonstrates how **inclusive, user-centred design** can transform complex legal processes into **approachable and actionable digital experiences**, empowering users to confidently protect their consumer rights.
 
-> “Design not just for function, but for fairness.”
-
+> *Design not just for function, but for fairness.*

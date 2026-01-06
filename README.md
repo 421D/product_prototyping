@@ -5,6 +5,16 @@ This repository contains **product design and interactive system prototypes** fo
 The projects demonstrate my ability to translate complex real-world problems into **clear user flows, structured interfaces, and high-fidelity interactive prototypes**.
 
 ---
+## Tools & Design Methods
+
+- Figma, Pixso  
+- User-Centred Design (UCD)  
+- Accessibility & Inclusive Design  
+- Information Architecture  
+- Interactive Prototyping
+
+
+
 
 ## Projects
 
@@ -19,22 +29,7 @@ A complete end-to-end prototype of a **consumer legal assistance platform**, des
 - Community-driven awareness and guided case submission  
 - Legal-tech product thinking  
 
-🔗 **Project README & Prototype Details**  
+**Project README & Prototype Details**  
 ➡️ [LegalAid_Platform_Prototype](./LegalAid_Platform_Prototype)
 
----
 
-## Tools & Design Methods
-
-- Figma, Pixso  
-- User-Centred Design (UCD)  
-- Accessibility & Inclusive Design  
-- Information Architecture  
-- Interactive Prototyping  
-
----
-
-## Repository Purpose
-This repository serves as a **product prototyping portfolio**, showcasing how  
-design decisions are driven by **user needs, inclusivity, and system-level thinking**,  
-rather than purely visual outcomes.
